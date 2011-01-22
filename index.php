@@ -8,3 +8,4 @@ echo 'input.phpもつくったよ';
 echo bbbbbbbbbbbbbbbbbbb;
 
 1
+2
