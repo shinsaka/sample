@@ -6,3 +6,5 @@ echo 'そうなんですか';
 echo 'input.phpもつくったよ';
 
 echo bbbbbbbbbbbbbbbbbbb;
+
+1
